@@ -1,0 +1,17 @@
+{
+  "name": "slash-commands-djs-base",
+  "version": "1.0.0",
+  "description": "Une base de bot pour les slashCommands",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "NouSs",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/rest": "^0.1.0-canary.0",
+    "colors": "^1.4.0",
+    "discord.js": "^13.1.0"
+  }
+}
